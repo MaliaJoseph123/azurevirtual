@@ -30,6 +30,7 @@ After you set your subscription, name, and region, click through review and crea
 # Creating our Virtual Network
 
 Go back to the Azure homepage and search for Virtual Networks, or click the icon at the top toolbar. It will look like this, click create 
+
 ![image](https://github.com/user-attachments/assets/76e16e5b-e6fe-4242-947a-cdfe58f0d433)
 
 Next it will bring you here, make sure the Resource Group that the Virtual Network is connected to is the same one you just created. Name your network whatever you want to. Then click through to review and create.
