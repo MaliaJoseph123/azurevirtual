@@ -50,7 +50,8 @@ Click Create Azure Virtual Machine and ensure you have the correct resource grou
 ![image](https://github.com/user-attachments/assets/4e0f5316-9505-44ad-bc57-235e6c767782)
 
 Next select your image, this is the OS the machine will be running. All other settings shown in picture don't get changed. For this demonstration, I will be using this OS and size:
-![image](https://github.com/user-attachments/assets/06ea55b5-2a29-4fa3-9a02-0d30d45f72cb)
+![image](https://github.com/user-attachments/assets/888e243e-e86a-4f5d-b05c-fc570930acad)
+
 
 For the demo, I will be using account name user123 and the password is Password1234. This isn't smart to do for real use but okay for a demo.
 ![image](https://github.com/user-attachments/assets/6e1c0e50-1438-47df-9881-f059a0c1ac32)
